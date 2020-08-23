@@ -1,5 +1,5 @@
 {
-    "name": "jarplaytech/laravel-opcache",
+    "name": "appstract/laravel-opcache",
     "description": "PHP OPcache Artisan commands for Laravel.",
     "keywords": [
         "appstract",
@@ -7,7 +7,7 @@
         "laravel",
         "php"
     ],
-    "homepage": "https://github.com/jarplaytech/laravel-opcache",
+    "homepage": "https://github.com/appstract/laravel-opcache",
     "license": "MIT",
     "authors": [
         {
